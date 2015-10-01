@@ -1,2 +1,2 @@
-print ("tere maailm")
+print ("tere Sigrid")
 
